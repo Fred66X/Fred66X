@@ -21,6 +21,10 @@ Repository: [Repository Sales Forecasting](https://github.com/Fred66X/DS_Project
 Description: Implemented clustering algorithms to segment products based on purchasing behavior within 5 years of transactions
 Technologies: Python, scikit-learn, seaborn, KMEANS
 Repository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/2_DSMARKET_Clustering.ipynb)
+4. Predicting Fashion Images with Neural Networks (MNIST)
+Description: Predicting a Fashion Image using deep learning to predict
+Technologies: TensorFlow, Keras, 
+Respository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/Predicting_Fashion_Images_with_Neural_Networks.ipynb)
 
 🛠️ Skills
 Programming Languages: Python, R, SQL
