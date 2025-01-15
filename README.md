@@ -8,7 +8,8 @@
  👨‍💼 About Me
 I am a data scientist with a passion for leveraging data to drive business decisions. My expertise lies in pricing strategies and business analytics, where I use statistical methods, machine learning, and data visualization to uncover insights and optimize performance.
 
-🚀 Projects
+🚀 Projects in this repository:
+
 1. Pricing Optimization Model
 Description: Developed a deep learning model with overfitting mitigation
 Technologies: Pandas, tensorflow, matplotlib
@@ -24,7 +25,11 @@ Repository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/
 4. Predicting Fashion Images with Neural Networks (MNIST)
 Description: Predicting a Fashion Image using deep learning to predict
 Technologies: TensorFlow, Keras, 
-Respository: [Fashion Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/Predicting_Fashion_Images_with_Neural_Networks.ipynb)
+Respository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/Predicting_Fashion_Images_with_Neural_Networks.ipynb)
+5. Predicting Delivery Order Status
+Description: Clssification model to predict
+Technologies: pandas, xgboost, sklearn, matplotlibe
+Respository: [Repository Clustering](https://github.com/Fred66X/DS_Projects/blob/main/ML_Classification_Delivery_Orders_Prediction.ipynb)
 
 🛠️ Skills
 Programming Languages: Python, R, SQL
