@@ -10,7 +10,7 @@ I am a data scientist with a passion for leveraging data to drive business decis
 
 🚀 Projects in this repository:
 
-1. Pricing Optimization Model
+1. Optimization Model
 Description: Developed a deep learning model with overfitting mitigation
 Technologies: Pandas, tensorflow, matplotlib
 Repository: [MNIST Repository](https://github.com/Fred66X/DS_Projects/blob/main/MNIST_Neural_Networks_DeepLearning.ipynb)
