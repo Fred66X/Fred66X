@@ -42,7 +42,7 @@ Tools: Jupyter Colab, Notebook, , Git
 For an easiest usage uploaded from Colab so it's easier for you to use different libraries in case you want to replicate, as sometimes is struggling this process in Visual Studio as Colab has installed already majority.
 
 📬 Contact
-Feel free to reach out to me via my [website](www.fredaraizaonthemove.com)
+Feel free to reach out to me via my [website]((https://fredaraizaonthemove.com))
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
